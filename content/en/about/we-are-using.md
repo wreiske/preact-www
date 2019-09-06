@@ -303,9 +303,9 @@ description: 'Companies who are proudly using Preact'
         </a>
     </li>
     <li>
-        <a href="//liliumcms.com" target="_blank">
-            <img src="/assets/we-are-using/lmllogo.png" alt="Lilium CMS">
-            Lilium CMS
+        <a href="//bluehive.com" target="_blank">
+            <img src="/assets/we-are-using/bluehive.svg" alt="BlueHive">
+            BlueHive
         </a>
     </li>
 </ul>
